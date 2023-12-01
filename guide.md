@@ -1,4 +1,5 @@
 ```sh
+git submodule update --init --recursive
 cd kali-nethunter-kernel
 ./build.sh
 
